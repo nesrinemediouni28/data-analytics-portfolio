@@ -20,4 +20,4 @@ Power BI analysis of social media usage and addiction patterns among 705 student
 
 **Tools:** Power BI · DAX · Data Cleaning · Data Visualization
 
-[View Project →](YOUR-PROJECT-LINK-HERE)
+[View Project →](https://github.com/nesrinemediouni28/social-media-addiction-analysis)
