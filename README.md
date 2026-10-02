@@ -8,7 +8,6 @@ Master's graduate in Digital Economics & Data Analytics, building practical expe
 - SQL
 - Microsoft Fabric
 - DAX
-- SPSS
 - Excel
 - Data Visualization
 
